@@ -1,0 +1,54 @@
+
+    
+body {
+ 
+  background-color: rgb(234, 175, 99);
+}
+
+h2 {
+  text-align: center;
+  color: brown;
+  font-family: "Courier New", Courier, monospace;
+  position: relative;
+  top: 20px;
+}
+
+div#container {
+  width: 350px;
+  margin-top: 50px;
+  /* height: 60px; */
+  border-top: 20px;
+}
+
+#inputfield {
+  width: 250px;
+  height: 30px;
+  border-radius: 15px;
+  border: none;
+  margin-left: 20px;
+  background-color: rgb(231, 236, 241);
+  font-size: 17px;
+  text-align: center;
+}
+#todoAdd {
+  height: 32px;
+  width: 65px;
+  border-radius: 15px;
+  margin-left: -52px;
+  background-color: rgb(253, 70, 4);
+  font-size: 16px;
+  border: 0cm;
+  outline: none;
+  margin-top: 5px;
+}
+#container {
+  text-align: center;
+  margin-left: 750px;
+
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW_gZx24TnEE8AZKnHOHb19aSJag-udc_QBA&usqp=CAU");
+  padding: 25px;
+
+
+
+  /* background-color: rgb(109, 227, 109); */
+}
